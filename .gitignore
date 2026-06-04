@@ -1,0 +1,15 @@
+// Ignore .net web api projetct template files
+bin/
+obj/
+.vs/
+.lauchsettings.json
+# Ignore configuration files
+appsettings.Development.json
+# Ignore logs
+logs/
+# Ignore publish output
+publish/
+# Ignore Visual Studio Code settings
+.vscode/
+# Ignore NuGet packages
+packages/

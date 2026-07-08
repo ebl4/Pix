@@ -12,10 +12,6 @@ public class PixTransaction
 
     public DateTime CreatedAt { get; private set; }
 
-    private PixTransaction()
-    {
-    }
-
     public PixTransaction(
         string sender,
         string receiver,
